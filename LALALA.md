@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bailongo!</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><h1 id="readme"> <strong>README</strong></h1>
+
+<p><strong>Bailongo!</strong></p>
+
+<h2 id="qué-es">¿Qué es?</h2>
+
+<blockquote>
+  <p><em>Bailongo!</em>  es una aplicación móvil en la cual el usuario podrá encontrar lugares o eventos recomendados basados en su gusto musical, como lo son restaurantes, clubes nocturnos, bares, festivales y conciertos.</p>
+  
+  <blockquote>
+    <p>La intención de <em>Bailongo!</em> es incrementar la oferta de entretenimiento para sus usuarios, permitiéndoles conocer nuevos lugares en donde suena música similar a la que escuchan frecuentemente, mientras tanto los dueños de estos lugares pueden atraer a nuevos clientes. De igual forma, la industria musical se vería beneficiada, ya que los usuarios de Bailongo recibirán información sobre los próximos conciertos de sus grupos favoritos cerca de ellos y también sobre nuevas bandas que podrían interesarles.</p>
+  </blockquote>
+  
+  <p><strong>Cliente:</strong> Restaurantes, clubes nocturnos, bares, festivales de música y conciertos.</p>
+  
+  <p><strong>Product Owner:</strong> Hugo Alberto Michel Castillo, creador de <em>“Bailongo!”</em>.</p>
+  
+  <p><strong>Mercado y canales de distribución:</strong> Jóvenes de 18 a 35 años, comunicación directa con nuestros clientes, ofreciendo apps para iOS y Android por medio de la AppStore y la PlayStore (GooglePlay) completamente gratuita para los usuarios.. </p>
+  
+  <p><strong>Scope Definition:</strong> El Project Owner se va a encargar de contactar a los clientes para hacer una cita personal con ellos para ofrecerles <em>Bailongo!</em>, mostrandoles el gran potencial con el que cuenta nuestro producto para atraer una importante cantidad de clientes, en su mayoría nuevos. Si se llega a un acuerdo el cliente firmará un contrato para que su local o evento sea promocionado en nuestra aplicación, además, el cliente nos proporcionará la lista de canciones con las que se identifica el lugar, de esta forma se compara con la lista de canciones de nuestros usuarios y se les notificara si son compatibles para darles a conocer el establecimiento o evento.   </p>
+  
+  <p>El proyecto debe de incluir una guía de establecimientos y eventos que forman parte de nuestra clientela y potenciales clientes, otro atractivo principal de nuestro proyecto serán las promociones de los establecimientos, por lo tanto debemos de comunicarnos con nuestros clientes para mantener el registro de las promociones que ofrecerán en nuestra aplicación.</p>
+</blockquote>
+
+<h2 id="team">Team:</h2>
+
+<blockquote>
+  <ul>
+  <li>Project Owner: Encargado de contactar a los clientes personalmente para ofrecerles <em>Bailongo!</em> y recibir retroalimentación que después será compartida con el equipo para mejorar la aplicación.</li>
+  <li>Technical Writers: Dos, uno que esté trabajando junto con el developer de frontend y otro junto con los developers de backend.</li>
+  <li>Project Manager: Uno que supervise el trabajo de todos.</li>
+  <li>Developers: Tres, uno para el Frontend y dos para el Backend.</li>
+  </ul>
+</blockquote>
+
+<h2 id="gantt">Gantt</h2>
+
+<blockquote>
+  <p>Para la realización de este proyecto se necesitarán dos meses y medio de tiempo, comenzando el 3 de julio del 2017 y terminando el 19 de septiembre del 2017.</p>
+</blockquote>
+
+
+
+<h2 id="economic-justification">Economic Justification:</h2>
+
+<blockquote>
+  <p>Considerando que realizaremos nuestro proyecto en un plazo de alrededor de dos meses y medio, la inversión necesaria debería de cubrir el salario de las personas que colaborarán con nosotros para la realización del mismo.</p>
+  
+  <p>Nuestro equipo está conformado por: </p>
+  
+  <blockquote>
+    <ul>
+    <li>2 Technical Writers</li>
+    <li>1 PM</li>
+    <li>3 Developers</li>
+    <li>1 Project Owner</li>
+    </ul>
+  </blockquote>
+  
+  <p>Estimamos que necesitaríamos alrededor de 100 mil pesos al mes para poder cumplir con sus salarios, considerando que no todos nuestros colaboradores trabajan tiempo completo.</p>
+  
+  <p>Con este estimado necesitamos 250 mil pesos para contar con nuestro MVP (Minimum Viable Product). </p>
+  
+  <p>Para poder cubrir esta inversión inicial necesitamos contar con por lo menos 10 clientes los cuales aporten  mil pesos mensuales por anunciar sus establecimientos dentro de nuestra aplicación.</p>
+  
+  <p>Para obtener nuestro NPV(Net Present Value) usamos la siguiente fórmula: <br>
+  tomando en cuenta una tasa de interés de 6.25%(BANXICO)</p>
+  
+  <blockquote>
+    <p>NPV= -250,000 + 120,000(P/A, 6.25,1)= 167,000.00</p>
+    
+    <p>Podemos definir que es una inversión razonable ya que podriamos recuperar nuestra inversión en poco más de dos años si adquirimos por lo menos 10 clientes mensuales.</p>
+  </blockquote>
+  
+  <p>PBP (Payback Period) = 250,000/120,000=2.083</p>
+  
+  <p>Calculando el Internal Rate of Return de nuestro proyecto, encontramos que la tasa de descuento es de 7.3% la cual resulta atractiva para emprender el proyecto. </p>
+  
+  <blockquote>
+    <p>IRR (Internal Rate of Return): <br>
+        -250000 +(120000/(1+r)) + (120,000/(1+r)^2)=0 <br>
+        r=7.3%</p>
+  </blockquote>
+</blockquote></div></body>
+</html>
