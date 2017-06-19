@@ -3,9 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bailongo!</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+
 </head>
 <body><div class="container"><h1 id="readme"> <strong>README</strong></h1>
 
@@ -83,7 +81,7 @@
   
   <p>PBP (Payback Period) = 250,000/120,000=2.083</p>
   
-  <p>Calculando el Internal Rate of Return de nuestro proyecto, encontramos que la tasa de descuento es de 7.3% la cual resulta atractiva para emprender el proyecto. </p>
+  Calculando el Internal Rate of Return de nuestro proyecto, encontramos que la tasa de descuento es de 7.3% la cual resulta atractiva para emprender el proyecto. 
   
   <blockquote>
     <p>IRR (Internal Rate of Return): <br>
