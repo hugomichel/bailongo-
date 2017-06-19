@@ -76,12 +76,12 @@
   <blockquote>
     <p>NPV= -250,000 + 120,000(P/A, 6.25,1)= 167,000.00</p>
     
-    <p>Podemos definir que es una inversión razonable ya que podriamos recuperar nuestra inversión en poco más de dos años si adquirimos por lo menos 10 clientes mensuales.</p>
+    Podemos definir que es una inversión razonable ya que podriamos recuperar nuestra inversión en poco más de dos años si adquirimos por lo menos 10 clientes mensuales.
   </blockquote>
   
   <p>PBP (Payback Period) = 250,000/120,000=2.083</p>
   
-  Calculando el Internal Rate of Return de nuestro proyecto, encontramos que la tasa de descuento es de 7.3% la cual resulta atractiva para emprender el proyecto. 
+  <p>Calculando el Internal Rate of Return de nuestro proyecto, encontramos que la tasa de descuento es de 7.3% la cual resulta atractiva para emprender el proyecto. </p>
   
   <blockquote>
     <p>IRR (Internal Rate of Return): <br>
