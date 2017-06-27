@@ -132,5 +132,12 @@
 
 <blockquote>
   <p>Utilizaremos la metodología FCFS (First Come First Served) para administrar los tickets que nos envíen los usuarios, esto quiere decir que se revisarán los tickets conforme los vayamos recibiendo sin darle importancia a la relevancia del ticket. De esta manera los usuarios quedarán satisfechos cuando vean que se trabajó en su ticket rápidamente.</p>
-</blockquote></div></body>
+</blockquote></div>
+
+<p>Continuous Integration</p>
+
+<blockquote>
+  <p>Estaremos utilizando la herramienta de buddy.works para la integración de nuestro proyecto con github.</p>
+</blockquote></div>
+</body>
 </html>
